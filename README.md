@@ -22,11 +22,12 @@ Atliq hardware aim is to optimize sales strategies and increase net gross margin
 
 * **Top and Bottom Selling Products:** Determine the top 5 and bottom 5 products based on the quantity sold.
 
-* **New Product Launches in 2021:** Highlight products newly introduced in 2021 by identifying entries with 0% in the "21 vs 20" growth column.
+* **New Product Launches in 2021:** Highlight products newly introduced in 2021.
 
 * **Top Performing Countries:** List the top 5 countries with the highest net sales in 2021.
 
   ### Project Insights
   
   * **Customer Sales Performance:** Net Sales have shown the substantial growth over the years. In year 2021, net sales increased by 304.5%
+    https://github.com/SonaliGupta13/Excel-Sales-And-Financial-Analytic-Report/blob/main/Customer%20Performance%20Report.pdf
     
