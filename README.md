@@ -29,5 +29,5 @@ Atliq hardware aim is to optimize sales strategies and increase net gross margin
   ### Project Insights
   
   * **Customer Sales Performance:** Net Sales have shown the substantial growth over the years. In year 2021, net sales increased by 304.5%
-    https://github.com/SonaliGupta13/Excel-Sales-And-Financial-Analytic-Report/blob/main/Customer%20Performance%20Report.pdf
+ <a href=" https://github.com/SonaliGupta13/Excel-Sales-And-Financial-Analytic-Report/blob/main/Customer%20Performance%20Report.pdf"> Customer Performance Report </a>
     
